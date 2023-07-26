@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/find_recipes/static/css/main.9bdec5e3.css",
-    "main.js": "/find_recipes/static/js/main.bff729ca.js",
+    "main.js": "/find_recipes/static/js/main.d35fdaa1.js",
     "static/js/787.bb84ef91.chunk.js": "/find_recipes/static/js/787.bb84ef91.chunk.js",
     "static/media/plate.jpg": "/find_recipes/static/media/plate.278f6618e3bd2ca9fd94.jpg",
     "static/media/noodles.jpg": "/find_recipes/static/media/noodles.4ffccf383237578916d3.jpg",
@@ -24,11 +24,11 @@
     "static/media/outline-icons.woff2": "/find_recipes/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/find_recipes/index.html",
     "main.9bdec5e3.css.map": "/find_recipes/static/css/main.9bdec5e3.css.map",
-    "main.bff729ca.js.map": "/find_recipes/static/js/main.bff729ca.js.map",
+    "main.d35fdaa1.js.map": "/find_recipes/static/js/main.d35fdaa1.js.map",
     "787.bb84ef91.chunk.js.map": "/find_recipes/static/js/787.bb84ef91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bdec5e3.css",
-    "static/js/main.bff729ca.js"
+    "static/js/main.d35fdaa1.js"
   ]
 }
